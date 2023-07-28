@@ -1,0 +1,1 @@
+# AyrA.IsEmoji
