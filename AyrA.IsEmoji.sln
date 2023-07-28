@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AyrA.IsEmoji", "AyrA.IsEmoji\AyrA.IsEmoji.csproj", "{0B74D95D-C0C3-4795-887B-9175627E19DA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CreateJson", "CreateJson\CreateJson.csproj", "{9B071CFA-FFD4-45C6-9E31-7D473F57C5F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B74D95D-C0C3-4795-887B-9175627E19DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B74D95D-C0C3-4795-887B-9175627E19DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B74D95D-C0C3-4795-887B-9175627E19DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B74D95D-C0C3-4795-887B-9175627E19DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B071CFA-FFD4-45C6-9E31-7D473F57C5F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B071CFA-FFD4-45C6-9E31-7D473F57C5F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B071CFA-FFD4-45C6-9E31-7D473F57C5F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B071CFA-FFD4-45C6-9E31-7D473F57C5F8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F0F4817D-7317-45ED-ACC6-774C06B4E17F}
+	EndGlobalSection
+EndGlobal
